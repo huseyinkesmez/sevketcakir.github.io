@@ -12,7 +12,7 @@ Tatil[new Date('09/01/2017')] = 'Kurban Bayramı';
 Tatil[new Date('09/02/2017')] = 'Kurban Bayramı';
 Tatil[new Date('09/03/2017')] = 'Kurban Bayramı';
 Tatil[new Date('09/04/2017')] = 'Kurban Bayramı';
-Tatil[new Date('10.29.2017')] = 'Cumhuriyet Bayramı';
+Tatil[new Date('10/29/2017')] = 'Cumhuriyet Bayramı';
 var StajGunleri={};
 function tatilGuncelle(){
 	var tatiller=document.getElementById("tatiller");
